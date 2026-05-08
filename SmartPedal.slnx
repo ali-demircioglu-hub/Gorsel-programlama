@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="SmartPedal/SmartPedal.csproj" Id="431bba3d-5547-4864-af0e-7c7a73f193d7">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
