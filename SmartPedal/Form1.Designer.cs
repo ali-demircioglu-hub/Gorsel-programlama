@@ -77,7 +77,7 @@
             this.btnload.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnload.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnload.ForeColor = System.Drawing.Color.Black;
-            this.btnload.Location = new System.Drawing.Point(28, 113);
+            this.btnload.Location = new System.Drawing.Point(28, 28);
             this.btnload.Name = "btnload";
             this.btnload.Size = new System.Drawing.Size(125, 125);
             this.btnload.TabIndex = 0;
